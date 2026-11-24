@@ -1,0 +1,8 @@
+opencv-python==4.13.0.92
+numpy
+tensorflow
+keras-facenet
+pillow
+scikit-learn
+requests
+python-dotenv
